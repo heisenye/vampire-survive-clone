@@ -2,4 +2,5 @@
 .godot/
 test.py
 test.js
-tes.gd
+test.gd
+test.tscn
